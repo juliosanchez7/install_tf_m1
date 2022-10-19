@@ -19,7 +19,7 @@ conda activate tensorflow
 Install jupyter lab
 
 ```
-conda install jupyter-lab
+pip install jupyterlab
 ```
 Create an specific kernel to the enviroment
 
